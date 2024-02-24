@@ -1,0 +1,1 @@
+# ninja-inno-example
